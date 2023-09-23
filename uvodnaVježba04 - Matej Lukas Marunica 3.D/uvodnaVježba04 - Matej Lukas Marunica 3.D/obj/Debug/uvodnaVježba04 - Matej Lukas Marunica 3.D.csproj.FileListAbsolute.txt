@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\uvodnaVježba04 - Matej Lukas Marunica 3.D\uvodnaVježba04 - Matej Lukas Marunica 3.D\obj\Debug\uvodnaVježba04 - Matej Lukas Marunica 3.D.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\uvodnaVježba04 - Matej Lukas Marunica 3.D\uvodnaVježba04 - Matej Lukas Marunica 3.D\obj\Debug\uvodnaVježba04 - Matej Lukas Marunica 3.D.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\uvodnaVježba04 - Matej Lukas Marunica 3.D\uvodnaVježba04 - Matej Lukas Marunica 3.D\bin\Debug\uvodnaVježba04 - Matej Lukas Marunica 3.D.exe.config
-C:\Users\PC\source\repos\uvodnaVježba04 - Matej Lukas Marunica 3.D\uvodnaVježba04 - Matej Lukas Marunica 3.D\bin\Debug\uvodnaVježba04 - Matej Lukas Marunica 3.D.exe
-C:\Users\PC\source\repos\uvodnaVježba04 - Matej Lukas Marunica 3.D\uvodnaVježba04 - Matej Lukas Marunica 3.D\bin\Debug\uvodnaVježba04 - Matej Lukas Marunica 3.D.pdb
-C:\Users\PC\source\repos\uvodnaVježba04 - Matej Lukas Marunica 3.D\uvodnaVježba04 - Matej Lukas Marunica 3.D\obj\Debug\uvodnaVježba04 - Matej Lukas Marunica 3.D.exe
-C:\Users\PC\source\repos\uvodnaVježba04 - Matej Lukas Marunica 3.D\uvodnaVježba04 - Matej Lukas Marunica 3.D\obj\Debug\uvodnaVježba04 - Matej Lukas Marunica 3.D.pdb
