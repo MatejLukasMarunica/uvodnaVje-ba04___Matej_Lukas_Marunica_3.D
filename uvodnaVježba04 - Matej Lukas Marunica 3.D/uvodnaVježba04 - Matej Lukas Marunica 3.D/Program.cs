@@ -26,7 +26,7 @@ namespace uvodnaVježba04___Matej_Lukas_Marunica_3.D
             }
 
             if (n > 1) { 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i < n; i++)
             {
                 rez = pret2 + pret1;
                 pret2 = pret1;
